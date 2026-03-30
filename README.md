@@ -1,8 +1,8 @@
 <h1 align="center">✨ Olá, eu sou Pedro Henrique 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=25&center=true&vCenter=true&width=650&lines=Olá!+Eu+sou+Pedro+Henrique;Desenvolvedor+Backend+💻;Construindo+APIs+REST+🚀;Foco+em+Java+e+Spring+Boot&duration=2000&pause=500" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+cantinho+💙;Backend+em+formação+💻;Java+%7C+Spring+Boot+%7C+APIs+✨;Sempre+aprendendo+🌱" />
+</p
 
 ---
 
