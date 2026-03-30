@@ -1,9 +1,7 @@
 <h1 align="center">✨ Olá, eu sou Pedro Henrique 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Backend em formação <br>
-  📚 Instrutor de Tecnologia no SENAC <br>
-  🌍 Em busca de oportunidades internacionais
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F8A5C2&size=26&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+cantinho+💙;Backend+em+formação+💻;Java+%7C+Spring+Boot+%7C+APIs+✨;Sempre+aprendendo+🌱" />
 </p>
 
 ---
